@@ -1,0 +1,14 @@
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.exe
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.deps.json
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.runtimeconfig.json
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.runtimeconfig.dev.json
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.dll
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\bin\Debug\netcoreapp3.1\homeWord2.pdb
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.csproj.AssemblyReference.cache
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.AssemblyInfoInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.AssemblyInfo.cs
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.csproj.CoreCompileInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.dll
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.pdb
+C:\Users\davud_b3wsv9l\source\repos\homeWord2\homeWord2\obj\Debug\netcoreapp3.1\homeWord2.genruntimeconfig.cache
